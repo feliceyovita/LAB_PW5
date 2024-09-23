@@ -1,0 +1,28 @@
+/* Universal selector */
+* {
+    background-color: whitesmoke;
+}
+
+#tombol-login {
+    color: black;
+}
+
+.kotak {
+    background-color: bisque;
+}
+
+a[title="fasilkom ti"] {
+    color: chartreuse;
+}
+
+div p {
+    color: chartreuse;
+}
+
+.box-model {
+    background-color: blue;
+    border: 2px solid black;
+    width: 300px;
+    padding: 50px;
+    margin: 15px;
+}
